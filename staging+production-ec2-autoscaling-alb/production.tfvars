@@ -1,0 +1,7 @@
+region = "us-west-2"
+prefix = "nxb-production"
+vpc-cidrblock = "10.2.0.0/16"
+public-subnet1-cidrblock = "10.2.1.0/24"
+public-subnet2-cidrblock = "10.2.2.0/24"
+ec2-ami-id = "ami-0d70546e43a941d70"
+ec2-instance-type = "t2.micro"
