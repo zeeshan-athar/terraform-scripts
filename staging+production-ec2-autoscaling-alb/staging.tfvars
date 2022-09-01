@@ -1,0 +1,7 @@
+region = "us-west-2"
+prefix = "nxb-staging"
+vpc-cidrblock = "10.1.0.0/16"
+public-subnet1-cidrblock = "10.1.1.0/24"
+public-subnet2-cidrblock = "10.1.2.0/24"
+ec2-ami-id = "ami-0d70546e43a941d70"
+ec2-instance-type = "t2.micro"
